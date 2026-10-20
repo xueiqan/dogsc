@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net10.0-windows10.0.19041": {
+      "ScreenRecorderLib": {
+        "type": "Direct",
+        "requested": "[6.6.0, 6.6.0]",
+        "resolved": "6.6.0",
+        "contentHash": "u4//jvO39tRXRNqg6/1Ky+KWPmxGdBsJOfp0A1tz6jnJosozzUSYPM0eu3LzeHwZYXeBMJBhVTRLJJBM6CVNng=="
+      },
+      "dogsc.core": {
+        "type": "Project"
+      }
+    },
+    "net10.0-windows10.0.19041/win-x64": {}
+  }
+}

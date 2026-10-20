@@ -1,0 +1,1732 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="1080P · 1920×1080" xml:space="preserve">
+    <value>1080p · 1920×1080</value>
+  </data>
+  <data name="120 fps · 高帧率" xml:space="preserve">
+    <value>120 fps · High frame rate</value>
+  </data>
+  <data name="12帧缩略图" xml:space="preserve">
+    <value>12 thumbnails</value>
+  </data>
+  <data name="1:2.39" xml:space="preserve">
+    <value>1:2.39</value>
+  </data>
+  <data name="2.39:1" xml:space="preserve">
+    <value>2.39:1</value>
+  </data>
+  <data name="30 fps · 日常录制" xml:space="preserve">
+    <value>30 fps · Everyday</value>
+  </data>
+  <data name="3:4" xml:space="preserve">
+    <value>3:4</value>
+  </data>
+  <data name="60 fps · 更流畅" xml:space="preserve">
+    <value>60 fps · Smooth</value>
+  </data>
+  <data name="6帧缩略图" xml:space="preserve">
+    <value>6 thumbnails</value>
+  </data>
+  <data name="720P · 1280×720" xml:space="preserve">
+    <value>720p · 1280×720</value>
+  </data>
+  <data name="Ctrl+Shift+S呼出悬浮条 · Ctrl+Shift+空格暂停/继续" xml:space="preserve">
+    <value>Ctrl+Shift+S: recording controls · Ctrl+Shift+Space: pause/resume</value>
+  </data>
+  <data name="Ctrl+Shift+S呼出悬浮条；Ctrl+Shift+空格暂停/继续。默认保存到当前用户Videos\屏幕录制。" xml:space="preserve">
+    <value>Ctrl+Shift+S opens recording controls; Ctrl+Shift+Space pauses/resumes. Recordings are saved in Videos\屏幕录制 under your current user folder.</value>
+  </data>
+  <data name="Ctrl+Shift+S显示/隐藏悬浮条" xml:space="preserve">
+    <value>Ctrl+Shift+S shows/hides recording controls</value>
+  </data>
+  <data name="Ctrl+Shift+S显示/隐藏悬浮条 · Ctrl+Shift+空格暂停/继续" xml:space="preserve">
+    <value>Ctrl+Shift+S: show/hide controls · Ctrl+Shift+Space: pause/resume</value>
+  </data>
+  <data name="Ctrl+Shift+S显示/隐藏悬浮条；Ctrl+Shift+空格暂停/继续。默认保存到D:\\视频。" xml:space="preserve">
+    <value>Ctrl+Shift+S shows/hides controls; Ctrl+Shift+Space pauses/resumes. Default save folder: D:\\视频.</value>
+  </data>
+  <data name="Ctrl+Shift+S显示/隐藏悬浮条；Ctrl+Shift+空格暂停/继续。默认保存到当前用户Videos\\屏幕录制。" xml:space="preserve">
+    <value>Ctrl+Shift+S shows/hides recording controls; Ctrl+Shift+Space pauses/resumes. Save to Videos\\屏幕录制 under the current user folder.</value>
+  </data>
+  <data name="DogSC · Windows录屏" xml:space="preserve">
+    <value>DogSC · Windows Recorder</value>
+  </data>
+  <data name="DogSC · 导出" xml:space="preserve">
+    <value>DogSC · Export</value>
+  </data>
+  <data name="DogSC原版项目检查 · " xml:space="preserve">
+    <value>DogSC Original Project · </value>
+  </data>
+  <data name="DogSC备忘录" xml:space="preserve">
+    <value>DogSC Memo</value>
+  </data>
+  <data name="DogSC备忘录 · " xml:space="preserve">
+    <value>DogSC Memo · </value>
+  </data>
+  <data name="DogSC录制悬浮条" xml:space="preserve">
+    <value>DogSC Recording Controls</value>
+  </data>
+  <data name="DogSC摄像头预览" xml:space="preserve">
+    <value>DogSC Camera Preview</value>
+  </data>
+  <data name="DogSC编辑器 · " xml:space="preserve">
+    <value>DogSC Editor · </value>
+  </data>
+  <data name="HEVC · 按本机能力检测" xml:space="preserve">
+    <value>HEVC · Detected on this PC</value>
+  </data>
+  <data name="ProRes 422 · 当前无编码插件" xml:space="preserve">
+    <value>ProRes 422 · Encoder unavailable</value>
+  </data>
+  <data name="Windows未能排除引导窗口，请先关闭引导再录制。" xml:space="preserve">
+    <value>Windows could not exclude this guide from capture. Close it before recording.</value>
+  </data>
+  <data name="X旋转 ±75°" xml:space="preserve">
+    <value>X rotation ±75°</value>
+  </data>
+  <data name="Y旋转 ±75°" xml:space="preserve">
+    <value>Y rotation ±75°</value>
+  </data>
+  <data name="Z旋转 ±180°" xml:space="preserve">
+    <value>Z rotation ±180°</value>
+  </data>
+  <data name="⚑ 标记" xml:space="preserve">
+    <value>⚑ Markers</value>
+  </data>
+  <data name="三次" xml:space="preserve">
+    <value>Cubic</value>
+  </data>
+  <data name="上" xml:space="preserve">
+    <value>Top</value>
+  </data>
+  <data name="下" xml:space="preserve">
+    <value>Bottom</value>
+  </data>
+  <data name="中等" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="临时开启录制免打扰" xml:space="preserve">
+    <value>Enable Do Not Disturb while recording</value>
+  </data>
+  <data name="了解Windows录制与设备权限，开始你的第一次录制。" xml:space="preserve">
+    <value>Learn about Windows capture and device access, then make your first recording.</value>
+  </data>
+  <data name="二次" xml:space="preserve">
+    <value>Quadratic</value>
+  </data>
+  <data name="五次" xml:space="preserve">
+    <value>Quintic</value>
+  </data>
+  <data name="仅窗口应用声音（包含子进程）" xml:space="preserve">
+    <value>Selected window app audio (including children)</value>
+  </data>
+  <data name="从录制点击生成自动缩放" xml:space="preserve">
+    <value>Generate auto zoom from recorded clicks</value>
+  </data>
+  <data name="位置" xml:space="preserve">
+    <value>Position</value>
+  </data>
+  <data name="位置X 0—1" xml:space="preserve">
+    <value>Position X 0—1</value>
+  </data>
+  <data name="位置Y 0—1" xml:space="preserve">
+    <value>Position Y 0—1</value>
+  </data>
+  <data name="使用Windows当前默认音频设备。" xml:space="preserve">
+    <value>Uses the current Windows default audio devices.</value>
+  </data>
+  <data name="侧滑" xml:space="preserve">
+    <value>Side Slide</value>
+  </data>
+  <data name="保存" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="保存与设置：默认保存到D:\视频，可更改设备、编码和位置。" xml:space="preserve">
+    <value>Save and settings: default folder D:\视频; choose devices, encoding and location.</value>
+  </data>
+  <data name="保存位置" xml:space="preserve">
+    <value>Save Location</value>
+  </data>
+  <data name="保存位置(_L)" xml:space="preserve">
+    <value>Save location (_L)</value>
+  </data>
+  <data name="保存到" xml:space="preserve">
+    <value>Save to</value>
+  </data>
+  <data name="保存失败" xml:space="preserve">
+    <value>Save Failed</value>
+  </data>
+  <data name="保存此样式" xml:space="preserve">
+    <value>Save this style</value>
+  </data>
+  <data name="保存项目" xml:space="preserve">
+    <value>Save Project</value>
+  </data>
+  <data name="保持" xml:space="preserve">
+    <value>Hold</value>
+  </data>
+  <data name="停止(_T)" xml:space="preserve">
+    <value>Stop (_T)</value>
+  </data>
+  <data name="元素入场间隔(s) 0—1.2" xml:space="preserve">
+    <value>Element delay (s) 0—1.2</value>
+  </data>
+  <data name="元素顺序" xml:space="preserve">
+    <value>Element order</value>
+  </data>
+  <data name="光晕" xml:space="preserve">
+    <value>Glow</value>
+  </data>
+  <data name="光标" xml:space="preserve">
+    <value>Cursor</value>
+  </data>
+  <data name="光标与点击反馈" xml:space="preserve">
+    <value>Cursor and Click Feedback</value>
+  </data>
+  <data name="光标大小 0.25—6" xml:space="preserve">
+    <value>Cursor size 0.25—6</value>
+  </data>
+  <data name="光标独立校准秒 ±60" xml:space="preserve">
+    <value>Cursor timing offset (s) ±60</value>
+  </data>
+  <data name="光标身份" xml:space="preserve">
+    <value>Cursor appearance</value>
+  </data>
+  <data name="免打扰" xml:space="preserve">
+    <value>Do Not Disturb</value>
+  </data>
+  <data name="全屏" xml:space="preserve">
+    <value>Full Screen</value>
+  </data>
+  <data name="全屏录制" xml:space="preserve">
+    <value>Record display</value>
+  </data>
+  <data name="关于" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="关于DogSC · Windows使用与权限" xml:space="preserve">
+    <value>About DogSC · Windows and Permissions</value>
+  </data>
+  <data name="关于与权限" xml:space="preserve">
+    <value>About and permissions</value>
+  </data>
+  <data name="关闭" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="关闭引导" xml:space="preserve">
+    <value>Close guide</value>
+  </data>
+  <data name="关闭摄像头" xml:space="preserve">
+    <value>Turn off camera</value>
+  </data>
+  <data name="关闭标记列表" xml:space="preserve">
+    <value>Close Markers</value>
+  </data>
+  <data name="再次查看首次使用引导" xml:space="preserve">
+    <value>Review first-use guide</value>
+  </data>
+  <data name="准备好录制" xml:space="preserve">
+    <value>Ready to Record</value>
+  </data>
+  <data name="准备就绪" xml:space="preserve">
+    <value>Ready</value>
+  </data>
+  <data name="准备开始你的录制" xml:space="preserve">
+    <value>Ready to Record</value>
+  </data>
+  <data name="分离可编辑光标（原片不嵌光标）" xml:space="preserve">
+    <value>Editable cursor (excluded from source video)</value>
+  </data>
+  <data name="分辨率" xml:space="preserve">
+    <value>Resolution</value>
+  </data>
+  <data name="删除录制标记" xml:space="preserve">
+    <value>Delete Recording Marker</value>
+  </data>
+  <data name="删除效果" xml:space="preserve">
+    <value>Delete effect</value>
+  </data>
+  <data name="删除片段" xml:space="preserve">
+    <value>Delete Clip</value>
+  </data>
+  <data name="删除运镜 / 组合" xml:space="preserve">
+    <value>Delete motion / group</value>
+  </data>
+  <data name="删除选中样式" xml:space="preserve">
+    <value>Delete selected style</value>
+  </data>
+  <data name="制作完整项目副本" xml:space="preserve">
+    <value>Copy complete project</value>
+  </data>
+  <data name="刷新(_R)" xml:space="preserve">
+    <value>Refresh (_R)</value>
+  </data>
+  <data name="刷新录制来源" xml:space="preserve">
+    <value>Refresh capture sources</value>
+  </data>
+  <data name="刷新设备" xml:space="preserve">
+    <value>Refresh Devices</value>
+  </data>
+  <data name="剪辑" xml:space="preserve">
+    <value>Editing</value>
+  </data>
+  <data name="动态" xml:space="preserve">
+    <value>Dynamic</value>
+  </data>
+  <data name="动态样式" xml:space="preserve">
+    <value>Motion style</value>
+  </data>
+  <data name="勾选后在编辑器导出时显示可调光标；直接MP4保留无光标原片。" xml:space="preserve">
+    <value>Show an editable cursor in editor exports. Direct MP4 keeps the source without a cursor.</value>
+  </data>
+  <data name="区域" xml:space="preserve">
+    <value>Area</value>
+  </data>
+  <data name="区域录制" xml:space="preserve">
+    <value>Area recording</value>
+  </data>
+  <data name="十字" xml:space="preserve">
+    <value>Crosshair</value>
+  </data>
+  <data name="十字准星" xml:space="preserve">
+    <value>Crosshair</value>
+  </data>
+  <data name="原始分辨率" xml:space="preserve">
+    <value>Native resolution</value>
+  </data>
+  <data name="原始比例" xml:space="preserve">
+    <value>Original Aspect</value>
+  </data>
+  <data name="原始素材" xml:space="preserve">
+    <value>Source</value>
+  </data>
+  <data name="原生分辨率" xml:space="preserve">
+    <value>Native resolution</value>
+  </data>
+  <data name="双环" xml:space="preserve">
+    <value>Rings</value>
+  </data>
+  <data name="取消" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="取消复制" xml:space="preserve">
+    <value>Cancel copy</value>
+  </data>
+  <data name="取消导出" xml:space="preserve">
+    <value>Cancel Export</value>
+  </data>
+  <data name="取消导出(_C)" xml:space="preserve">
+    <value>Cancel export (_C)</value>
+  </data>
+  <data name="取消正在进行的导出" xml:space="preserve">
+    <value>Cancel current export</value>
+  </data>
+  <data name="只在录制时记录鼠标轨迹与点击，不收集输入文字。" xml:space="preserve">
+    <value>Pointer movement and clicks are recorded only during capture. Typed text is not collected.</value>
+  </data>
+  <data name="只粘贴属性 Ctrl+Shift+V" xml:space="preserve">
+    <value>Paste properties only Ctrl+Shift+V</value>
+  </data>
+  <data name="可恢复MP4分片（意外退出保留完整分片）" xml:space="preserve">
+    <value>Recoverable MP4 segments (keep completed parts after a crash)</value>
+  </data>
+  <data name="可选，默认关闭；第三方提示需单独处理。" xml:space="preserve">
+    <value>Optional, off by default. Third-party popups need separate handling.</value>
+  </data>
+  <data name="右" xml:space="preserve">
+    <value>Right</value>
+  </data>
+  <data name="向前" xml:space="preserve">
+    <value>Move earlier</value>
+  </data>
+  <data name="向后" xml:space="preserve">
+    <value>Move later</value>
+  </data>
+  <data name="启用聚焦" xml:space="preserve">
+    <value>Enable Focus</value>
+  </data>
+  <data name="固定" xml:space="preserve">
+    <value>Fixed</value>
+  </data>
+  <data name="固定后不能拖动；再次点击或右键取消固定" xml:space="preserve">
+    <value>Pinned preview cannot be dragged. Click again or right-click to unpin.</value>
+  </data>
+  <data name="固定摄像头窗口" xml:space="preserve">
+    <value>Pin camera preview</value>
+  </data>
+  <data name="图案" xml:space="preserve">
+    <value>Pattern</value>
+  </data>
+  <data name="图案尺寸 0.01—0.3" xml:space="preserve">
+    <value>Pattern size 0.01—0.3</value>
+  </data>
+  <data name="图案样式" xml:space="preserve">
+    <value>Pattern style</value>
+  </data>
+  <data name="图案透明度 0—1" xml:space="preserve">
+    <value>Pattern opacity 0—1</value>
+  </data>
+  <data name="图片" xml:space="preserve">
+    <value>Image</value>
+  </data>
+  <data name="圆形" xml:space="preserve">
+    <value>Circle</value>
+  </data>
+  <data name="圆形焦点" xml:space="preserve">
+    <value>Circular focus</value>
+  </data>
+  <data name="圆角" xml:space="preserve">
+    <value>Corner Radius</value>
+  </data>
+  <data name="圆角 0—0.5" xml:space="preserve">
+    <value>Corner radius 0—0.5</value>
+  </data>
+  <data name="在播放头分割" xml:space="preserve">
+    <value>Split at playhead</value>
+  </data>
+  <data name="在播放头添加屏幕运镜" xml:space="preserve">
+    <value>Add screen motion at playhead</value>
+  </data>
+  <data name="在播放头添加摄像头运镜" xml:space="preserve">
+    <value>Add camera motion at playhead</value>
+  </data>
+  <data name="在播放头添加聚焦缩放" xml:space="preserve">
+    <value>Add focus zoom at playhead</value>
+  </data>
+  <data name="场景" xml:space="preserve">
+    <value>Scene</value>
+  </data>
+  <data name="场景预设" xml:space="preserve">
+    <value>Scene Preset</value>
+  </data>
+  <data name="声音" xml:space="preserve">
+    <value>Audio</value>
+  </data>
+  <data name="声音波形：按源时间抽样的峰值；点击定位，剪辑时跟随时间线重映射。" xml:space="preserve">
+    <value>Audio waveform: source-time peaks. Click to seek; edits follow timeline remapping.</value>
+  </data>
+  <data name="备忘录" xml:space="preserve">
+    <value>Memo</value>
+  </data>
+  <data name="复制效果 Ctrl+C" xml:space="preserve">
+    <value>Copy effect Ctrl+C</value>
+  </data>
+  <data name="外框" xml:space="preserve">
+    <value>Frame</value>
+  </data>
+  <data name="外观" xml:space="preserve">
+    <value>Appearance</value>
+  </data>
+  <data name="大小" xml:space="preserve">
+    <value>Size</value>
+  </data>
+  <data name="始终隐藏" xml:space="preserve">
+    <value>Always Hide</value>
+  </data>
+  <data name="始终隐藏光标" xml:space="preserve">
+    <value>Always hide cursor</value>
+  </data>
+  <data name="字号" xml:space="preserve">
+    <value>Font size</value>
+  </data>
+  <data name="完成" xml:space="preserve">
+    <value>Done</value>
+  </data>
+  <data name="完整" xml:space="preserve">
+    <value>Full</value>
+  </data>
+  <data name="宽" xml:space="preserve">
+    <value>Width</value>
+  </data>
+  <data name="宽 / 缩放倍数" xml:space="preserve">
+    <value>Width / zoom factor</value>
+  </data>
+  <data name="导出" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="导出MP4(_E)" xml:space="preserve">
+    <value>Export MP4 (_E)</value>
+  </data>
+  <data name="导出…" xml:space="preserve">
+    <value>Export…</value>
+  </data>
+  <data name="导出完成" xml:space="preserve">
+    <value>Export Complete</value>
+  </data>
+  <data name="导出已取消，原片与已有文件保留。" xml:space="preserve">
+    <value>Export canceled. Source and existing files are preserved.</value>
+  </data>
+  <data name="尚未打开或保存项目" xml:space="preserve">
+    <value>No project opened or saved</value>
+  </data>
+  <data name="尚未选择" xml:space="preserve">
+    <value>Not Selected</value>
+  </data>
+  <data name="尚未选择区域" xml:space="preserve">
+    <value>No area selected</value>
+  </data>
+  <data name="屏幕" xml:space="preserve">
+    <value>Screen</value>
+  </data>
+  <data name="屏幕,摄像头,贴图" xml:space="preserve">
+    <value>Screen, camera, sticker</value>
+  </data>
+  <data name="屏幕,贴图,摄像头" xml:space="preserve">
+    <value>Screen, sticker, camera</value>
+  </data>
+  <data name="屏幕与窗口" xml:space="preserve">
+    <value>Screens and windows</value>
+  </data>
+  <data name="屏幕区域" xml:space="preserve">
+    <value>Screen area</value>
+  </data>
+  <data name="屏幕参与开场" xml:space="preserve">
+    <value>Screen intro</value>
+  </data>
+  <data name="屏幕录制" xml:space="preserve">
+    <value>Screen Recording</value>
+  </data>
+  <data name="屏幕素材" xml:space="preserve">
+    <value>Screen</value>
+  </data>
+  <data name="屏幕缩放 / 摄像头尺寸" xml:space="preserve">
+    <value>Screen zoom / camera size</value>
+  </data>
+  <data name="工具栏尺寸 0.1—3" xml:space="preserve">
+    <value>Toolbar scale 0.1—3</value>
+  </data>
+  <data name="工程白网格" xml:space="preserve">
+    <value>Engineering White Grid</value>
+  </data>
+  <data name="左" xml:space="preserve">
+    <value>Left</value>
+  </data>
+  <data name="已固定" xml:space="preserve">
+    <value>Pinned</value>
+  </data>
+  <data name="已录制时长" xml:space="preserve">
+    <value>Recorded duration</value>
+  </data>
+  <data name="已恢复屏幕视频并保留声音、事件及编辑素材副本；原包保持原处：" xml:space="preserve">
+    <value>Recovered screen video and copied audio, events and editing assets. The original package remains at: </value>
+  </data>
+  <data name="已暂停" xml:space="preserve">
+    <value>Paused</value>
+  </data>
+  <data name="已选择" xml:space="preserve">
+    <value>Selected</value>
+  </data>
+  <data name="布局" xml:space="preserve">
+    <value>Layout</value>
+  </data>
+  <data name="帧率" xml:space="preserve">
+    <value>Frame Rate</value>
+  </data>
+  <data name="帧率：30/60/120fps直接控制采集与编码频率；越高越流畅，所需性能越高。" xml:space="preserve">
+    <value>Frame rate: 30/60/120 fps directly controls capture and encoding. Higher rates produce smoother video and require more performance.</value>
+  </data>
+  <data name="平板" xml:space="preserve">
+    <value>Tablet</value>
+  </data>
+  <data name="平滑" xml:space="preserve">
+    <value>Smooth</value>
+  </data>
+  <data name="应用" xml:space="preserve">
+    <value>Apply</value>
+  </data>
+  <data name="应用裁剪/速度" xml:space="preserve">
+    <value>Apply trim/speed</value>
+  </data>
+  <data name="应用选中样式" xml:space="preserve">
+    <value>Apply selected style</value>
+  </data>
+  <data name="建筑极简点" xml:space="preserve">
+    <value>Architectural Dots</value>
+  </data>
+  <data name="开场" xml:space="preserve">
+    <value>Opening</value>
+  </data>
+  <data name="开场长度(s)" xml:space="preserve">
+    <value>Intro duration (s)</value>
+  </data>
+  <data name="开始(_A)" xml:space="preserve">
+    <value>Start (_A)</value>
+  </data>
+  <data name="开始使用DogSC" xml:space="preserve">
+    <value>Get started with DogSC</value>
+  </data>
+  <data name="开始导出" xml:space="preserve">
+    <value>Start export</value>
+  </data>
+  <data name="开始录制" xml:space="preserve">
+    <value>Start Recording</value>
+  </data>
+  <data name="开始录制(_A)" xml:space="preserve">
+    <value>Start recording (_A)</value>
+  </data>
+  <data name="开始或停止录制" xml:space="preserve">
+    <value>Start or stop recording</value>
+  </data>
+  <data name="弹性双环" xml:space="preserve">
+    <value>Spring Double Ring</value>
+  </data>
+  <data name="弹簧" xml:space="preserve">
+    <value>Spring</value>
+  </data>
+  <data name="强度" xml:space="preserve">
+    <value>Intensity</value>
+  </data>
+  <data name="当前" xml:space="preserve">
+    <value>Current</value>
+  </data>
+  <data name="录制" xml:space="preserve">
+    <value>Recording</value>
+  </data>
+  <data name="录制与原始MP4导出，保持所选帧率和录制规格。" xml:space="preserve">
+    <value>Recording and source MP4 export preserve the selected frame rate and recording size.</value>
+  </data>
+  <data name="录制与原始MP4导出，保持所选帧率和画质。" xml:space="preserve">
+    <value>Recording and source MP4 export preserve the selected frame rate and quality.</value>
+  </data>
+  <data name="录制中" xml:space="preserve">
+    <value>Recording</value>
+  </data>
+  <data name="录制保存在独立的.dogscproject项目文件夹中。" xml:space="preserve">
+    <value>Recordings are saved in separate .dogscproject folders.</value>
+  </data>
+  <data name="录制光标" xml:space="preserve">
+    <value>Recorded cursor</value>
+  </data>
+  <data name="录制分辨率上限" xml:space="preserve">
+    <value>Recording resolution limit</value>
+  </data>
+  <data name="录制完成" xml:space="preserve">
+    <value>Recording complete</value>
+  </data>
+  <data name="录制工作台" xml:space="preserve">
+    <value>Recording Workspace</value>
+  </data>
+  <data name="录制帧率" xml:space="preserve">
+    <value>Recording frame rate</value>
+  </data>
+  <data name="录制摄像头" xml:space="preserve">
+    <value>Record camera</value>
+  </data>
+  <data name="录制方式" xml:space="preserve">
+    <value>Capture mode</value>
+  </data>
+  <data name="录制方式(_M)" xml:space="preserve">
+    <value>Capture mode (_M)</value>
+  </data>
+  <data name="录制期间不能关闭摄像头；停止后可关闭" xml:space="preserve">
+    <value>Stop recording before turning off the camera.</value>
+  </data>
+  <data name="录制来源" xml:space="preserve">
+    <value>Capture source</value>
+  </data>
+  <data name="录制标记" xml:space="preserve">
+    <value>Recording Markers</value>
+  </data>
+  <data name="录制标记：点击跳转；标尺上右键可删除" xml:space="preserve">
+    <value>Recording markers: click to jump; right-click a ruler bookmark to delete.</value>
+  </data>
+  <data name="录制独立摄像头" xml:space="preserve">
+    <value>Record camera separately</value>
+  </data>
+  <data name="录制画质" xml:space="preserve">
+    <value>Recording quality</value>
+  </data>
+  <data name="录制系统声音" xml:space="preserve">
+    <value>Record System Audio</value>
+  </data>
+  <data name="录制编码" xml:space="preserve">
+    <value>Recording codec</value>
+  </data>
+  <data name="录制规格" xml:space="preserve">
+    <value>Recording size</value>
+  </data>
+  <data name="录制规格(_Q)" xml:space="preserve">
+    <value>Recording size (_Q)</value>
+  </data>
+  <data name="录制规格：原始分辨率跟随所选显示器的实际像素，4K屏录4K；1080P=1920×1080；720P=1280×720。标准规格等比缩放并留边。" xml:space="preserve">
+    <value>Recording size: native resolution follows the selected display's actual pixels; a 4K display records in 4K. 1080p=1920×1080; 720p=1280×720. Standard sizes scale proportionally with padding.</value>
+  </data>
+  <data name="录制设置" xml:space="preserve">
+    <value>Recording Settings</value>
+  </data>
+  <data name="录制设置和保存项目" xml:space="preserve">
+    <value>Recording settings and project saving</value>
+  </data>
+  <data name="形状" xml:space="preserve">
+    <value>Shape</value>
+  </data>
+  <data name="微闪" xml:space="preserve">
+    <value>Flash</value>
+  </data>
+  <data name="快速" xml:space="preserve">
+    <value>Fast</value>
+  </data>
+  <data name="快速找回重点与重录位置" xml:space="preserve">
+    <value>Jump back to key moments and retakes</value>
+  </data>
+  <data name="总音量 0—1" xml:space="preserve">
+    <value>Master volume 0—1</value>
+  </data>
+  <data name="恢复原片" xml:space="preserve">
+    <value>Restore source</value>
+  </data>
+  <data name="手动" xml:space="preserve">
+    <value>Manual</value>
+  </data>
+  <data name="手势" xml:space="preserve">
+    <value>Hand</value>
+  </data>
+  <data name="手机" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="打开" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="打开Windows免打扰设置" xml:space="preserve">
+    <value>Open Windows Do Not Disturb settings</value>
+  </data>
+  <data name="打开Windows通知设置，录制前可手动开启免打扰。" xml:space="preserve">
+    <value>Open Windows notification settings to enable Do Not Disturb before recording.</value>
+  </data>
+  <data name="打开原版项目（只读）" xml:space="preserve">
+    <value>Open original project (read-only)</value>
+  </data>
+  <data name="打开备忘录" xml:space="preserve">
+    <value>Open Memo</value>
+  </data>
+  <data name="打开目录(_I)" xml:space="preserve">
+    <value>Open folder (_I)</value>
+  </data>
+  <data name="打开设置" xml:space="preserve">
+    <value>Open Settings</value>
+  </data>
+  <data name="打开项目" xml:space="preserve">
+    <value>Open Project</value>
+  </data>
+  <data name="打开项目(_O)" xml:space="preserve">
+    <value>Open project (_O)</value>
+  </data>
+  <data name="拖动空白处移动整个悬浮条" xml:space="preserve">
+    <value>Drag an empty area to move the whole toolbar</value>
+  </data>
+  <data name="拖拽选择区域(_G)" xml:space="preserve">
+    <value>Select area (_G)</value>
+  </data>
+  <data name="指向手势" xml:space="preserve">
+    <value>Pointing Hand</value>
+  </data>
+  <data name="指定窗口" xml:space="preserve">
+    <value>Selected window</value>
+  </data>
+  <data name="按住鼠标拖拽选择录制区域 · Esc取消" xml:space="preserve">
+    <value>Drag to select the recording area · Esc to cancel</value>
+  </data>
+  <data name="按开始时间保存文件夹，内含MP4视频和M4A纯音频；无声音时仅保存视频。" xml:space="preserve">
+    <value>Save in a folder named after the start time, containing MP4 video and M4A audio; silent recordings contain only video.</value>
+  </data>
+  <data name="摄像头" xml:space="preserve">
+    <value>Camera</value>
+  </data>
+  <data name="摄像头,屏幕,贴图" xml:space="preserve">
+    <value>Camera, screen, sticker</value>
+  </data>
+  <data name="摄像头,贴图,屏幕" xml:space="preserve">
+    <value>Camera, sticker, screen</value>
+  </data>
+  <data name="摄像头X 0—1" xml:space="preserve">
+    <value>Camera X 0—1</value>
+  </data>
+  <data name="摄像头Y 0—1" xml:space="preserve">
+    <value>Camera Y 0—1</value>
+  </data>
+  <data name="摄像头位置" xml:space="preserve">
+    <value>Camera position</value>
+  </data>
+  <data name="摄像头关闭" xml:space="preserve">
+    <value>Camera off</value>
+  </data>
+  <data name="摄像头参与开场" xml:space="preserve">
+    <value>Camera intro</value>
+  </data>
+  <data name="摄像头圆角 0—0.5" xml:space="preserve">
+    <value>Camera corner radius 0—0.5</value>
+  </data>
+  <data name="摄像头实际格式" xml:space="preserve">
+    <value>Camera capture format</value>
+  </data>
+  <data name="摄像头宽 0.01—1" xml:space="preserve">
+    <value>Camera width 0.01—1</value>
+  </data>
+  <data name="摄像头形状" xml:space="preserve">
+    <value>Camera shape</value>
+  </data>
+  <data name="摄像头旋转 ±180°" xml:space="preserve">
+    <value>Camera rotation ±180°</value>
+  </data>
+  <data name="摄像头权限" xml:space="preserve">
+    <value>Camera</value>
+  </data>
+  <data name="摄像头来源" xml:space="preserve">
+    <value>Camera source</value>
+  </data>
+  <data name="摄像头校准秒 ±60" xml:space="preserve">
+    <value>Camera timing offset (s) ±60</value>
+  </data>
+  <data name="摄像头裁上" xml:space="preserve">
+    <value>Camera crop top</value>
+  </data>
+  <data name="摄像头裁下" xml:space="preserve">
+    <value>Camera crop bottom</value>
+  </data>
+  <data name="摄像头裁右" xml:space="preserve">
+    <value>Camera crop right</value>
+  </data>
+  <data name="摄像头裁左" xml:space="preserve">
+    <value>Camera crop left</value>
+  </data>
+  <data name="摄像头透明度" xml:space="preserve">
+    <value>Camera opacity</value>
+  </data>
+  <data name="摄像头阴影 0—0.2" xml:space="preserve">
+    <value>Camera shadow 0—0.2</value>
+  </data>
+  <data name="摄像头阴影强度 0—1" xml:space="preserve">
+    <value>Camera shadow strength 0—1</value>
+  </data>
+  <data name="摄像头高 0.01—1" xml:space="preserve">
+    <value>Camera height 0.01—1</value>
+  </data>
+  <data name="摄像头默认关闭；编码能力按本机检测。" xml:space="preserve">
+    <value>Camera is off by default; codec availability is detected on this PC.</value>
+  </data>
+  <data name="摄像头（保存时合入视频）" xml:space="preserve">
+    <value>Camera (merged into the saved video)</value>
+  </data>
+  <data name="摄像头（独立素材，可在编辑器布局）" xml:space="preserve">
+    <value>Camera (separate media, adjustable in editor)</value>
+  </data>
+  <data name="摄像头：点击开关，默认选择最高分辨率及该分辨率下的最高帧率。" xml:space="preserve">
+    <value>Camera: toggle recording at the highest supported resolution and the highest frame rate at that resolution.</value>
+  </data>
+  <data name="撤销" xml:space="preserve">
+    <value>Undo</value>
+  </data>
+  <data name="撤销 Ctrl+Z" xml:space="preserve">
+    <value>Undo Ctrl+Z</value>
+  </data>
+  <data name="播放" xml:space="preserve">
+    <value>Play</value>
+  </data>
+  <data name="播放 / 暂停" xml:space="preserve">
+    <value>Play / Pause</value>
+  </data>
+  <data name="播放(_Y)" xml:space="preserve">
+    <value>Play (_Y)</value>
+  </data>
+  <data name="播放声音（默认关闭）" xml:space="preserve">
+    <value>Play audio (off by default)</value>
+  </data>
+  <data name="效果" xml:space="preserve">
+    <value>Effects</value>
+  </data>
+  <data name="效果属性" xml:space="preserve">
+    <value>Effect Properties</value>
+  </data>
+  <data name="效果轨道" xml:space="preserve">
+    <value>Effects</value>
+  </data>
+  <data name="效果轨道（遮盖/柔化=源画面坐标）" xml:space="preserve">
+    <value>Effects (cover/blur use source coordinates)</value>
+  </data>
+  <data name="整个屏幕" xml:space="preserve">
+    <value>Entire screen</value>
+  </data>
+  <data name="整个系统" xml:space="preserve">
+    <value>All system audio</value>
+  </data>
+  <data name="文件" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="方向" xml:space="preserve">
+    <value>Direction</value>
+  </data>
+  <data name="方形" xml:space="preserve">
+    <value>Square</value>
+  </data>
+  <data name="旋转" xml:space="preserve">
+    <value>Rotation</value>
+  </data>
+  <data name="无" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="旧项目使用原片中已混合音轨，仅调总音量。" xml:space="preserve">
+    <value>Older projects use the mixed source audio; only master volume is available.</value>
+  </data>
+  <data name="时长" xml:space="preserve">
+    <value>Duration</value>
+  </data>
+  <data name="时间线" xml:space="preserve">
+    <value>Timeline</value>
+  </data>
+  <data name="星辉漫步点阵" xml:space="preserve">
+    <value>Starfield drift</value>
+  </data>
+  <data name="显示器" xml:space="preserve">
+    <value>Display</value>
+  </data>
+  <data name="显示项目摄像头素材" xml:space="preserve">
+    <value>Show project camera</value>
+  </data>
+  <data name="暂停" xml:space="preserve">
+    <value>Pause</value>
+  </data>
+  <data name="暂停(_P)" xml:space="preserve">
+    <value>Pause (_P)</value>
+  </data>
+  <data name="暂停或继续录制：Ctrl+Shift+空格" xml:space="preserve">
+    <value>Pause or resume: Ctrl+Shift+Space</value>
+  </data>
+  <data name="暖星漫步点阵" xml:space="preserve">
+    <value>Warm Starfield</value>
+  </data>
+  <data name="暗夜星阵" xml:space="preserve">
+    <value>Midnight Dots</value>
+  </data>
+  <data name="暗角" xml:space="preserve">
+    <value>Vignette</value>
+  </data>
+  <data name="暗角 0—1" xml:space="preserve">
+    <value>Vignette 0—1</value>
+  </data>
+  <data name="曲线x1,y1,x2,y2" xml:space="preserve">
+    <value>Curve x1,y1,x2,y2</value>
+  </data>
+  <data name="更新选中效果" xml:space="preserve">
+    <value>Update selected effect</value>
+  </data>
+  <data name="更新选中运镜" xml:space="preserve">
+    <value>Update selected motion</value>
+  </data>
+  <data name="更流畅" xml:space="preserve">
+    <value>Smoother motion</value>
+  </data>
+  <data name="最高1080p · 不放大源画面" xml:space="preserve">
+    <value>Up to 1080p · No upscaling</value>
+  </data>
+  <data name="最高4K · 不放大源画面" xml:space="preserve">
+    <value>Up to 4K · No upscaling</value>
+  </data>
+  <data name="未选择" xml:space="preserve">
+    <value>Not Selected</value>
+  </data>
+  <data name="权限" xml:space="preserve">
+    <value>Permissions</value>
+  </data>
+  <data name="极光流体星云" xml:space="preserve">
+    <value>Aurora flow</value>
+  </data>
+  <data name="柔化" xml:space="preserve">
+    <value>Blur</value>
+  </data>
+  <data name="柔和" xml:space="preserve">
+    <value>Gentle</value>
+  </data>
+  <data name="柔和光晕" xml:space="preserve">
+    <value>Soft Glow</value>
+  </data>
+  <data name="标准" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="标记" xml:space="preserve">
+    <value>Markers</value>
+  </data>
+  <data name="标记 {0}" xml:space="preserve">
+    <value>Marker {0}</value>
+  </data>
+  <data name="标记所在素材已被剪掉，恢复剪辑后可重新定位" xml:space="preserve">
+    <value>The marked footage was removed. Restore the edit to locate these markers again.</value>
+  </data>
+  <data name="标题 / 网址" xml:space="preserve">
+    <value>Title / URL</value>
+  </data>
+  <data name="样式预设" xml:space="preserve">
+    <value>Style presets</value>
+  </data>
+  <data name="样机" xml:space="preserve">
+    <value>Frame</value>
+  </data>
+  <data name="样机尺寸 0.1—2" xml:space="preserve">
+    <value>Mockup scale 0.1—2</value>
+  </data>
+  <data name="格式" xml:space="preserve">
+    <value>Format</value>
+  </data>
+  <data name="框选录制" xml:space="preserve">
+    <value>Record area</value>
+  </data>
+  <data name="模糊程度" xml:space="preserve">
+    <value>Blur amount</value>
+  </data>
+  <data name="模糊程度 0—1" xml:space="preserve">
+    <value>Blur amount 0—1</value>
+  </data>
+  <data name="横向" xml:space="preserve">
+    <value>Landscape</value>
+  </data>
+  <data name="横移 ±1" xml:space="preserve">
+    <value>Horizontal shift ±1</value>
+  </data>
+  <data name="正在创建恢复副本，原包保持不变…" xml:space="preserve">
+    <value>Creating a recovery copy; the original package is preserved…</value>
+  </data>
+  <data name="正在取消导出" xml:space="preserve">
+    <value>Cancelling export</value>
+  </data>
+  <data name="正在取消导出，请稍后关闭。" xml:space="preserve">
+    <value>Canceling export. Close after it finishes.</value>
+  </data>
+  <data name="正在结束" xml:space="preserve">
+    <value>Finishing</value>
+  </data>
+  <data name="正在获取录制来源…" xml:space="preserve">
+    <value>Loading capture sources…</value>
+  </data>
+  <data name="此项目原片已包含光标，不能无痕隐藏或替换；可添加点击反馈。下次录制勾选可编辑光标后，可改样式、大小与轨迹。" xml:space="preserve">
+    <value>The source already contains a cursor. Click feedback is available. Enable editable cursor for future recordings to change its appearance, size and motion.</value>
+  </data>
+  <data name="此项目没有摄像头素材。" xml:space="preserve">
+    <value>This project has no camera media.</value>
+  </data>
+  <data name="此项目没有摄像头素材，请在录制时选择摄像头。" xml:space="preserve">
+    <value>This project has no camera media. Select a camera when recording.</value>
+  </data>
+  <data name="此项目没有鼠标事件轨迹，无法生成自动缩放。" xml:space="preserve">
+    <value>No recorded pointer events are available for automatic zoom.</value>
+  </data>
+  <data name="比例" xml:space="preserve">
+    <value>Aspect ratio</value>
+  </data>
+  <data name="比例与布局" xml:space="preserve">
+    <value>Aspect ratio and layout</value>
+  </data>
+  <data name="波形" xml:space="preserve">
+    <value>Waveform</value>
+  </data>
+  <data name="流畅" xml:space="preserve">
+    <value>Smooth</value>
+  </data>
+  <data name="流金缓移网格" xml:space="preserve">
+    <value>Drifting Gold Grid</value>
+  </data>
+  <data name="浅色" xml:space="preserve">
+    <value>Light</value>
+  </data>
+  <data name="浅色浏览器" xml:space="preserve">
+    <value>Light browser</value>
+  </data>
+  <data name="浅色窗口" xml:space="preserve">
+    <value>Light window</value>
+  </data>
+  <data name="浏览(_B)" xml:space="preserve">
+    <value>Browse (_B)</value>
+  </data>
+  <data name="浏览器" xml:space="preserve">
+    <value>Browser</value>
+  </data>
+  <data name="涟漪" xml:space="preserve">
+    <value>Ripple</value>
+  </data>
+  <data name="深色" xml:space="preserve">
+    <value>Dark</value>
+  </data>
+  <data name="深色浏览器" xml:space="preserve">
+    <value>Dark browser</value>
+  </data>
+  <data name="深色窗口" xml:space="preserve">
+    <value>Dark window</value>
+  </data>
+  <data name="添加" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="添加屏幕 / 摄像头组合" xml:space="preserve">
+    <value>Add screen / camera group</value>
+  </data>
+  <data name="添加录制标记" xml:space="preserve">
+    <value>Add Recording Marker</value>
+  </data>
+  <data name="添加效果" xml:space="preserve">
+    <value>Add effect</value>
+  </data>
+  <data name="添加标记" xml:space="preserve">
+    <value>Add marker</value>
+  </data>
+  <data name="清晰" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="清晰带方向 0—360°" xml:space="preserve">
+    <value>Clear strip direction 0—360°</value>
+  </data>
+  <data name="清晰范围" xml:space="preserve">
+    <value>Clear Area</value>
+  </data>
+  <data name="清晰范围 0.1—1" xml:space="preserve">
+    <value>Clear range 0.1—1</value>
+  </data>
+  <data name="源分辨率" xml:space="preserve">
+    <value>Source resolution</value>
+  </data>
+  <data name="源终点(s)" xml:space="preserve">
+    <value>Source end (s)</value>
+  </data>
+  <data name="源起点(s)" xml:space="preserve">
+    <value>Source start (s)</value>
+  </data>
+  <data name="灰色" xml:space="preserve">
+    <value>Gray</value>
+  </data>
+  <data name="点击动画" xml:space="preserve">
+    <value>Click Animation</value>
+  </data>
+  <data name="点击反馈" xml:space="preserve">
+    <value>Click Feedback</value>
+  </data>
+  <data name="点击定位 · 点删除图标移除" xml:space="preserve">
+    <value>Click to jump · Use the trash icon to remove</value>
+  </data>
+  <data name="点击范围 0.1—5" xml:space="preserve">
+    <value>Click radius 0.1—5</value>
+  </data>
+  <data name="点击透明度 0—1" xml:space="preserve">
+    <value>Click opacity 0—1</value>
+  </data>
+  <data name="点击颜色" xml:space="preserve">
+    <value>Click Color</value>
+  </data>
+  <data name="焦点" xml:space="preserve">
+    <value>Focus</value>
+  </data>
+  <data name="焦点X 0—1" xml:space="preserve">
+    <value>Focus X 0—1</value>
+  </data>
+  <data name="焦点Y 0—1" xml:space="preserve">
+    <value>Focus Y 0—1</value>
+  </data>
+  <data name="片段" xml:space="preserve">
+    <value>Clip</value>
+  </data>
+  <data name="片段时间" xml:space="preserve">
+    <value>Clip Timing</value>
+  </data>
+  <data name="片段速度" xml:space="preserve">
+    <value>Clip Speed</value>
+  </data>
+  <data name="片段长度" xml:space="preserve">
+    <value>Clip Length</value>
+  </data>
+  <data name="片段长度(s)" xml:space="preserve">
+    <value>Clip duration (s)</value>
+  </data>
+  <data name="版本" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="独立摄像头布局" xml:space="preserve">
+    <value>Separate Camera Layout</value>
+  </data>
+  <data name="画布 / 背景 / 外框" xml:space="preserve">
+    <value>Canvas / Background / Frame</value>
+  </data>
+  <data name="画布比例与布局" xml:space="preserve">
+    <value>Canvas Aspect and Layout</value>
+  </data>
+  <data name="画质" xml:space="preserve">
+    <value>Quality</value>
+  </data>
+  <data name="画质(_Q)" xml:space="preserve">
+    <value>Quality (_Q)</value>
+  </data>
+  <data name="画面" xml:space="preserve">
+    <value>Canvas</value>
+  </data>
+  <data name="界面语言" xml:space="preserve">
+    <value>Interface language</value>
+  </data>
+  <data name="留白 0—0.4" xml:space="preserve">
+    <value>Padding 0—0.4</value>
+  </data>
+  <data name="目标帧率" xml:space="preserve">
+    <value>Frame rate</value>
+  </data>
+  <data name="目标帧率(_F)" xml:space="preserve">
+    <value>Frame rate (_F)</value>
+  </data>
+  <data name="目标编码帧率" xml:space="preserve">
+    <value>Encoding frame rate</value>
+  </data>
+  <data name="直接" xml:space="preserve">
+    <value>Direct</value>
+  </data>
+  <data name="空格" xml:space="preserve">
+    <value>Space</value>
+  </data>
+  <data name="窗口" xml:space="preserve">
+    <value>Window</value>
+  </data>
+  <data name="窗口录制" xml:space="preserve">
+    <value>Record window</value>
+  </data>
+  <data name="窗口标题" xml:space="preserve">
+    <value>Window title</value>
+  </data>
+  <data name="立体等角网" xml:space="preserve">
+    <value>Isometric Mesh</value>
+  </data>
+  <data name="箭头" xml:space="preserve">
+    <value>Arrow</value>
+  </data>
+  <data name="粘贴到播放头 Ctrl+V" xml:space="preserve">
+    <value>Paste at playhead Ctrl+V</value>
+  </data>
+  <data name="粘贴属性" xml:space="preserve">
+    <value>Paste Attributes</value>
+  </data>
+  <data name="系统" xml:space="preserve">
+    <value>System</value>
+  </data>
+  <data name="系统声音" xml:space="preserve">
+    <value>System Audio</value>
+  </data>
+  <data name="系统声音(_S)" xml:space="preserve">
+    <value>System audio (_S)</value>
+  </data>
+  <data name="系统声音关闭" xml:space="preserve">
+    <value>System audio off</value>
+  </data>
+  <data name="系统声音开启" xml:space="preserve">
+    <value>System audio on</value>
+  </data>
+  <data name="系统声音设备" xml:space="preserve">
+    <value>System audio device</value>
+  </data>
+  <data name="系统声音静音" xml:space="preserve">
+    <value>Mute system audio</value>
+  </data>
+  <data name="系统声音：仅窗口应用" xml:space="preserve">
+    <value>System audio: selected window app</value>
+  </data>
+  <data name="系统声音：整个系统" xml:space="preserve">
+    <value>System audio: all apps</value>
+  </data>
+  <data name="系统声音：默认开启。红斜杠为关闭，灰色为配置中，绿色为就绪。" xml:space="preserve">
+    <value>System audio is on by default. Red slash: off; gray: configuring; green: ready.</value>
+  </data>
+  <data name="系统校准秒 ±60" xml:space="preserve">
+    <value>System timing offset (s) ±60</value>
+  </data>
+  <data name="系统箭头" xml:space="preserve">
+    <value>System Arrow</value>
+  </data>
+  <data name="系统音量 0—1" xml:space="preserve">
+    <value>System volume 0—1</value>
+  </data>
+  <data name="纵向" xml:space="preserve">
+    <value>Portrait</value>
+  </data>
+  <data name="纵移 ±1" xml:space="preserve">
+    <value>Vertical shift ±1</value>
+  </data>
+  <data name="线性" xml:space="preserve">
+    <value>Linear</value>
+  </data>
+  <data name="线性清晰带" xml:space="preserve">
+    <value>Linear focus strip</value>
+  </data>
+  <data name="结束秒" xml:space="preserve">
+    <value>End time (s)</value>
+  </data>
+  <data name="继续(_P)" xml:space="preserve">
+    <value>Resume (_P)</value>
+  </data>
+  <data name="绿色" xml:space="preserve">
+    <value>Green</value>
+  </data>
+  <data name="缓动" xml:space="preserve">
+    <value>Easing</value>
+  </data>
+  <data name="编码画质" xml:space="preserve">
+    <value>Encoding quality</value>
+  </data>
+  <data name="编辑" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="编辑仅写入editor.json，原片保持不变。预览和导出使用同一合成器。当前WPF离线合成会回读像素，4K/复杂效果可能较慢；变速声音会同步改变音高。" xml:space="preserve">
+    <value>Edits are stored in editor.json. Source media is preserved. Preview and export share the compositor. WPF pixel readback can make 4K and complex effects slower. Speed changes also change audio pitch.</value>
+  </data>
+  <data name="编辑器" xml:space="preserve">
+    <value>Editor</value>
+  </data>
+  <data name="编辑视频" xml:space="preserve">
+    <value>Edit video</value>
+  </data>
+  <data name="缩放" xml:space="preserve">
+    <value>Zoom</value>
+  </data>
+  <data name="缩放 / 效果" xml:space="preserve">
+    <value>Zoom / Effects</value>
+  </data>
+  <data name="缩放 1—5" xml:space="preserve">
+    <value>Zoom 1—5</value>
+  </data>
+  <data name="网格" xml:space="preserve">
+    <value>Grid</value>
+  </data>
+  <data name="羽化范围" xml:space="preserve">
+    <value>Feather range</value>
+  </data>
+  <data name="羽化范围 0—1" xml:space="preserve">
+    <value>Feather range 0—1</value>
+  </data>
+  <data name="聚光" xml:space="preserve">
+    <value>Spotlight</value>
+  </data>
+  <data name="聚拢" xml:space="preserve">
+    <value>Converge</value>
+  </data>
+  <data name="聚焦" xml:space="preserve">
+    <value>Focus</value>
+  </data>
+  <data name="聚焦中心X 0—1" xml:space="preserve">
+    <value>Focus center X 0—1</value>
+  </data>
+  <data name="聚焦中心Y 0—1" xml:space="preserve">
+    <value>Focus center Y 0—1</value>
+  </data>
+  <data name="聚焦形状" xml:space="preserve">
+    <value>Focus shape</value>
+  </data>
+  <data name="聚焦微闪" xml:space="preserve">
+    <value>Focused Flash</value>
+  </data>
+  <data name="聚焦效果" xml:space="preserve">
+    <value>Focus effects</value>
+  </data>
+  <data name="聚焦跟随" xml:space="preserve">
+    <value>Focus follows</value>
+  </data>
+  <data name="背景" xml:space="preserve">
+    <value>Background</value>
+  </data>
+  <data name="背景模糊" xml:space="preserve">
+    <value>Background Blur</value>
+  </data>
+  <data name="背景模糊 0—50" xml:space="preserve">
+    <value>Background blur 0—50</value>
+  </data>
+  <data name="背景类型" xml:space="preserve">
+    <value>Background type</value>
+  </data>
+  <data name="背景素材" xml:space="preserve">
+    <value>Background source</value>
+  </data>
+  <data name="背景颜色" xml:space="preserve">
+    <value>Background color</value>
+  </data>
+  <data name="自动" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="自动缩放" xml:space="preserve">
+    <value>Automatic zoom</value>
+  </data>
+  <data name="自动：" xml:space="preserve">
+    <value>Automatic: </value>
+  </data>
+  <data name="自定" xml:space="preserve">
+    <value>Custom</value>
+  </data>
+  <data name="自定义" xml:space="preserve">
+    <value>Custom</value>
+  </data>
+  <data name="自定义宽高比（0=适应）" xml:space="preserve">
+    <value>Custom aspect ratio (0=fit)</value>
+  </data>
+  <data name="范围" xml:space="preserve">
+    <value>Range</value>
+  </data>
+  <data name="蓝白流体云幕" xml:space="preserve">
+    <value>Blue-White Fluid Veil</value>
+  </data>
+  <data name="裁上 0—0.9" xml:space="preserve">
+    <value>Crop top 0—0.9</value>
+  </data>
+  <data name="裁下 0—0.9" xml:space="preserve">
+    <value>Crop bottom 0—0.9</value>
+  </data>
+  <data name="裁切" xml:space="preserve">
+    <value>Crop</value>
+  </data>
+  <data name="裁切 / 3D" xml:space="preserve">
+    <value>Crop / 3D</value>
+  </data>
+  <data name="裁切 / 运镜" xml:space="preserve">
+    <value>Crop / Motion</value>
+  </data>
+  <data name="裁右 0—0.9" xml:space="preserve">
+    <value>Crop right 0—0.9</value>
+  </data>
+  <data name="裁左 0—0.9" xml:space="preserve">
+    <value>Crop left 0—0.9</value>
+  </data>
+  <data name="视频" xml:space="preserve">
+    <value>Video</value>
+  </data>
+  <data name="视频 / 项目⌄" xml:space="preserve">
+    <value>Video / Project⌄</value>
+  </data>
+  <data name="视频/项目" xml:space="preserve">
+    <value>Video/Project</value>
+  </data>
+  <data name="设备" xml:space="preserve">
+    <value>Device</value>
+  </data>
+  <data name="设置" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="语言" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="调整聚焦" xml:space="preserve">
+    <value>Adjust Focus</value>
+  </data>
+  <data name="贴图" xml:space="preserve">
+    <value>Sticker</value>
+  </data>
+  <data name="贴图,屏幕,摄像头" xml:space="preserve">
+    <value>Sticker, screen, camera</value>
+  </data>
+  <data name="贴图,摄像头,屏幕" xml:space="preserve">
+    <value>Sticker, camera, screen</value>
+  </data>
+  <data name="贴图参与开场" xml:space="preserve">
+    <value>Sticker intro</value>
+  </data>
+  <data name="赛博微流网格" xml:space="preserve">
+    <value>Cyber flow grid</value>
+  </data>
+  <data name="起始秒" xml:space="preserve">
+    <value>Start time (s)</value>
+  </data>
+  <data name="跳转到标记" xml:space="preserve">
+    <value>Jump to Marker</value>
+  </data>
+  <data name="轨迹平滑" xml:space="preserve">
+    <value>Motion smoothing</value>
+  </data>
+  <data name="轨道" xml:space="preserve">
+    <value>Tracks</value>
+  </data>
+  <data name="轻 3D" xml:space="preserve">
+    <value>Light 3D</value>
+  </data>
+  <data name="轻3D" xml:space="preserve">
+    <value>Gentle 3D</value>
+  </data>
+  <data name="边框 0—0.1" xml:space="preserve">
+    <value>Border 0—0.1</value>
+  </data>
+  <data name="边框透明度 0—1" xml:space="preserve">
+    <value>Border opacity 0—1</value>
+  </data>
+  <data name="边框颜色 #AARRGGBB" xml:space="preserve">
+    <value>Border color #AARRGGBB</value>
+  </data>
+  <data name="过渡" xml:space="preserve">
+    <value>Transition</value>
+  </data>
+  <data name="运动倾斜强度 2—4" xml:space="preserve">
+    <value>Motion tilt strength 2—4</value>
+  </data>
+  <data name="运动轨道" xml:space="preserve">
+    <value>Motion tracks</value>
+  </data>
+  <data name="运镜" xml:space="preserve">
+    <value>Motion</value>
+  </data>
+  <data name="返回过渡(s)，0=保持" xml:space="preserve">
+    <value>Return transition (s), 0=hold</value>
+  </data>
+  <data name="进入" xml:space="preserve">
+    <value>Enter</value>
+  </data>
+  <data name="进入DogSC" xml:space="preserve">
+    <value>Enter DogSC</value>
+  </data>
+  <data name="进入过渡(s)" xml:space="preserve">
+    <value>Entry transition (s)</value>
+  </data>
+  <data name="退出" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="退出DogSC" xml:space="preserve">
+    <value>Quit DogSC</value>
+  </data>
+  <data name="适中" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="适应" xml:space="preserve">
+    <value>Fit</value>
+  </data>
+  <data name="选中片段：裁剪与速度" xml:space="preserve">
+    <value>Selected Clip: Trim and Speed</value>
+  </data>
+  <data name="选择" xml:space="preserve">
+    <value>Select</value>
+  </data>
+  <data name="选择屏幕(_D)" xml:space="preserve">
+    <value>Choose display (_D)</value>
+  </data>
+  <data name="选择屏幕、窗口或框选区域即可录制。受保护内容或Windows策略可能限制采集。" xml:space="preserve">
+    <value>Select a screen, window or region to record. Protected content or Windows policies may restrict capture.</value>
+  </data>
+  <data name="选择录制区域" xml:space="preserve">
+    <value>Select recording area</value>
+  </data>
+  <data name="选择来源和声音，然后点击开始录制。" xml:space="preserve">
+    <value>Choose a source and audio, then start recording.</value>
+  </data>
+  <data name="选择窗口(_D)" xml:space="preserve">
+    <value>Choose window (_D)</value>
+  </data>
+  <data name="选择缩放或屏幕运镜片段后调整聚焦。" xml:space="preserve">
+    <value>Select a zoom or screen-motion clip to adjust focus.</value>
+  </data>
+  <data name="选择背景图片 / 视频" xml:space="preserve">
+    <value>Choose background image / video</value>
+  </data>
+  <data name="选择项目保存位置" xml:space="preserve">
+    <value>Choose Project Folder</value>
+  </data>
+  <data name="选择项目保存文件夹" xml:space="preserve">
+    <value>Choose project folder</value>
+  </data>
+  <data name="透明度" xml:space="preserve">
+    <value>Opacity</value>
+  </data>
+  <data name="透视距离 1.5—10" xml:space="preserve">
+    <value>Perspective distance 1.5—10</value>
+  </data>
+  <data name="通知设置" xml:space="preserve">
+    <value>Notifications</value>
+  </data>
+  <data name="速度" xml:space="preserve">
+    <value>Speed</value>
+  </data>
+  <data name="遮盖" xml:space="preserve">
+    <value>Cover</value>
+  </data>
+  <data name="重做" xml:space="preserve">
+    <value>Redo</value>
+  </data>
+  <data name="重做 Ctrl+Y" xml:space="preserve">
+    <value>Redo Ctrl+Y</value>
+  </data>
+  <data name="镜像" xml:space="preserve">
+    <value>Mirror</value>
+  </data>
+  <data name="阴影" xml:space="preserve">
+    <value>Shadow</value>
+  </data>
+  <data name="阴影 0—0.2" xml:space="preserve">
+    <value>Shadow 0—0.2</value>
+  </data>
+  <data name="阴影强度" xml:space="preserve">
+    <value>Shadow</value>
+  </data>
+  <data name="阴影强度 0—1" xml:space="preserve">
+    <value>Shadow strength 0—1</value>
+  </data>
+  <data name="随动画进入和退出；摄像头与贴图保持清晰。屏幕3D聚焦优先于缩放聚焦。" xml:space="preserve">
+    <value>Focus fades in and out with the animation; camera and overlays stay clear. Screen 3D focus takes priority over zoom focus.</value>
+  </data>
+  <data name="随运动倾斜" xml:space="preserve">
+    <value>Tilt with movement</value>
+  </data>
+  <data name="随运镜" xml:space="preserve">
+    <value>Framing</value>
+  </data>
+  <data name="随鼠标" xml:space="preserve">
+    <value>Cursor</value>
+  </data>
+  <data name="隐藏" xml:space="preserve">
+    <value>Hidden</value>
+  </data>
+  <data name="隐藏悬浮条" xml:space="preserve">
+    <value>Hide recording controls</value>
+  </data>
+  <data name="隐藏悬浮条，Ctrl+Shift+S呼出" xml:space="preserve">
+    <value>Hide controls; Ctrl+Shift+S to show</value>
+  </data>
+  <data name="需要时在录制设置中选择设备。若无法访问，请在Windows中允许桌面应用使用麦克风或摄像头。" xml:space="preserve">
+    <value>Select devices in recording settings when needed. If access fails, allow desktop apps to use your microphone or camera in Windows settings.</value>
+  </data>
+  <data name="静止时隐藏" xml:space="preserve">
+    <value>Hide when idle</value>
+  </data>
+  <data name="静止隐藏延迟" xml:space="preserve">
+    <value>Hide When Idle Delay</value>
+  </data>
+  <data name="静止隐藏延迟(s)" xml:space="preserve">
+    <value>Idle hide delay (s)</value>
+  </data>
+  <data name="音画同步" xml:space="preserve">
+    <value>Audio &amp; Video Sync</value>
+  </data>
+  <data name="音量" xml:space="preserve">
+    <value>Volume</value>
+  </data>
+  <data name="音频设备" xml:space="preserve">
+    <value>Audio devices</value>
+  </data>
+  <data name="项目" xml:space="preserve">
+    <value>Project</value>
+  </data>
+  <data name="项目保存父目录" xml:space="preserve">
+    <value>Project parent folder</value>
+  </data>
+  <data name="项目名称" xml:space="preserve">
+    <value>Project Name</value>
+  </data>
+  <data name="项目名称(_N)" xml:space="preserve">
+    <value>Project name (_N)</value>
+  </data>
+  <data name="项目文件" xml:space="preserve">
+    <value>Project Files</value>
+  </data>
+  <data name="预览" xml:space="preserve">
+    <value>Preview</value>
+  </data>
+  <data name="预设" xml:space="preserve">
+    <value>Presets</value>
+  </data>
+  <data name="预设名称" xml:space="preserve">
+    <value>Preset Name</value>
+  </data>
+  <data name="颜色" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="首次使用引导" xml:space="preserve">
+    <value>First-Use Guide</value>
+  </data>
+  <data name="首次引导状态未能保存，原文件已保留。录制仍可使用，下次手动启动可能再次显示引导。" xml:space="preserve">
+    <value>The first-run state could not be saved. The original file is preserved and recording remains available. The guide may appear again on your next manual launch.</value>
+  </data>
+  <data name="首次引导状态读取失败，原文件已保留。仍可使用录制功能。" xml:space="preserve">
+    <value>The first-run state could not be read. The original file is preserved and recording remains available.</value>
+  </data>
+  <data name="高" xml:space="preserve">
+    <value>Height</value>
+  </data>
+  <data name="麦克风" xml:space="preserve">
+    <value>Microphone</value>
+  </data>
+  <data name="麦克风与摄像头（可选）" xml:space="preserve">
+    <value>Microphone and camera (optional)</value>
+  </data>
+  <data name="麦克风关闭" xml:space="preserve">
+    <value>Microphone off</value>
+  </data>
+  <data name="麦克风权限" xml:space="preserve">
+    <value>Microphone</value>
+  </data>
+  <data name="麦克风校准秒 ±60" xml:space="preserve">
+    <value>Microphone timing offset (s) ±60</value>
+  </data>
+  <data name="麦克风设备" xml:space="preserve">
+    <value>Microphone device</value>
+  </data>
+  <data name="麦克风静音" xml:space="preserve">
+    <value>Mute microphone</value>
+  </data>
+  <data name="麦克风音量" xml:space="preserve">
+    <value>Microphone volume</value>
+  </data>
+  <data name="麦克风音量 0—1" xml:space="preserve">
+    <value>Microphone volume 0—1</value>
+  </data>
+  <data name="麦克风：点击开关，自动选择可用蓝牙麦克风，否则使用系统默认。红斜杠为关闭，灰色为配置中，绿色为就绪。" xml:space="preserve">
+    <value>Microphone: toggle recording. An available Bluetooth microphone is preferred, otherwise the Windows default is used. Red slash: off; gray: configuring; green: ready.</value>
+  </data>
+  <data name="麦克风：自动选择（蓝牙优先）" xml:space="preserve">
+    <value>Microphone: automatic (Bluetooth preferred)</value>
+  </data>
+  <data name="黑曜石网格" xml:space="preserve">
+    <value>Obsidian Grid</value>
+  </data>
+  <data name="默认" xml:space="preserve">
+    <value>Default</value>
+  </data>
+  <data name="默认麦克风(_V)" xml:space="preserve">
+    <value>Default microphone (_V)</value>
+  </data>
+  <data name="鼠标移动与点击" xml:space="preserve">
+    <value>Pointer movement and clicks</value>
+  </data>
+  <data name="；" xml:space="preserve">
+    <value>; </value>
+  </data>
+  <data name="迅捷" xml:space="preserve">
+    <value>Swift</value>
+  </data>
+  <data name="开场曲线" xml:space="preserve">
+    <value>Opening curve</value>
+  </data>
+  <data name="MP4" xml:space="preserve">
+    <value>MP4 video</value>
+  </data>
+  <data name="M4A" xml:space="preserve">
+    <value>M4A audio</value>
+  </data>
+  <data name="请在录制进行时添加标记；暂停时不能添加。" xml:space="preserve">
+    <value>Add a marker while recording; markers cannot be added while paused.</value>
+  </data>
+  <data name="DogSC界面语言设置" xml:space="preserve">
+    <value>DogSC interface language settings</value>
+  </data>
+  <data name="成片合成" xml:space="preserve"><value>Final effects</value></data>
+  <data name="摄像头（录入原片）" xml:space="preserve"><value>Camera (included in the original recording)</value></data>
+  <data name="开启运镜、放大等效果；关闭直接保存原片。鼠标和摄像头实时录入，不另存摄像头视频。" xml:space="preserve"><value>Enable motion and zoom effects, or disable to save the original recording directly. The pointer and camera are captured live; no separate camera video is saved.</value></data>
+  <data name="成片合成只控制运镜、放大等效果；摄像头直接录入屏幕原片，不保存独立摄像头视频。" xml:space="preserve"><value>Final effects control motion and zoom only. The camera is recorded into the screen video; no separate camera video is saved.</value></data>
+  <data name="恢复裁剪/速度" xml:space="preserve"><value>Restore trim and speed</value></data>
+  <data name="活动运镜片段优先使用片段焦点；其他时间使用上面的焦点。" xml:space="preserve"><value>Active motion clips use their own focus. At other times, the focus above applies.</value></data>
+  <data name="素材已剪掉，无法定位" xml:space="preserve"><value>Source trimmed out; cannot seek</value></data>
+  <data name="已是完整原片与1倍速度。" xml:space="preserve"><value>The full original recording is already at normal speed.</value></data>
+  <data name="已恢复完整原片与1倍速度；其他编辑设置保留，可撤销。" xml:space="preserve"><value>Restored the full recording and normal speed. Other settings were kept; you can undo this.</value></data>
+  <data name="已移动选中片段，缩放与过渡参数保留。" xml:space="preserve"><value>Moved the selected segment while preserving zoom and transition settings.</value></data>
+  <data name="请先选中要更新的运镜片段。" xml:space="preserve"><value>Select a motion clip to update.</value></data>
+  <data name="请先选中要删除的运镜片段。" xml:space="preserve"><value>Select a motion clip to delete.</value></data>
+  <data name="请先选中要更新的效果。" xml:space="preserve"><value>Select an effect to update.</value></data>
+  <data name="请先选中要删除的效果。" xml:space="preserve"><value>Select an effect to delete.</value></data>
+  <data name="请先选中要复制的效果。" xml:space="preserve"><value>Select an effect to copy.</value></data>
+  <data name="请先复制一个效果，再粘贴。" xml:space="preserve"><value>Copy an effect before pasting.</value></data>
+  <data name="请先选中要粘贴属性的效果。" xml:space="preserve"><value>Select an effect to receive the copied properties.</value></data>
+  <data name="录制音量" xml:space="preserve"><value>Recording volume</value></data>
+  <data name="麦克风录制音量" xml:space="preserve"><value>Microphone recording volume</value></data>
+  <data name="系统声音录制音量" xml:space="preserve"><value>System recording volume</value></data>
+  <data name="录制音量：分别调整麦克风和系统声音，不更改Windows音量。" xml:space="preserve"><value>Adjust microphone and system recording levels without changing Windows volume.</value></data>
+  <data name="录制中可开关摄像头、麦克风，并调整录制音量。" xml:space="preserve"><value>Toggle the camera or microphone and adjust recording levels while recording.</value></data>
+</root>

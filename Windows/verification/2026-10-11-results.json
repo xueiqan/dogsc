@@ -1,0 +1,263 @@
+{
+  "checkedAt": "2026-10-11T02:44:27.5054919+08:00",
+  "evidenceRoot": "D:\\github\\dogsc\\Windows\\artifacts\\finalization-fixes-20261011",
+  "addedDependencies": false,
+  "recordingLibrary": "ScreenRecorderLib [6.6.0]",
+  "core": {
+    "passed": 33,
+    "skipReason": "symbolic link privilege unavailable",
+    "skipped": 1,
+    "log": "core-boundaries-test.log"
+  },
+  "windows": {
+    "success": true,
+    "checks": 56,
+    "results": {
+      "finalization": 11,
+      "cameraRelease": 10,
+      "exceptions": 2,
+      "audioFailure": 2,
+      "exportGate": 7,
+      "optionalAudio": 6,
+      "sceneBounds": 4,
+      "events": 14
+    }
+  },
+  "controlledUi": {
+    "idleCameraTimeout": {
+      "success": true,
+      "controlledHungConfiguration": true,
+      "realDeviceHang": false,
+      "recoveryExitVisible": true,
+      "closedAfterConfigurationCompletion": true,
+      "checks": 2
+    },
+    "editor": 13,
+    "publication": 10
+  },
+  "live": {
+    "mediaFiles": 8,
+    "decoded": [
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\finalization-fixes-20261011\\live-main-final2\\recordings\\2026-10-11 02-38-42\\2026-10-11 02-38-42.mp4",
+        "audio": false,
+        "samples": 921,
+        "byteCount": 3395174400,
+        "Duration": 30.7,
+        "lastTimestamp": 30.6666666,
+        "Width": 1280,
+        "Height": 720,
+        "LastDecodedPitch": 5120,
+        "decodedSeconds": 5.1207977
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\finalization-fixes-20261011\\live-main-final2\\recordings\\2026-10-11 02-39-32\\2026-10-11 02-39-32.m4a",
+        "audio": true,
+        "samples": 1452,
+        "byteCount": 5947392,
+        "Duration": 30.9759791,
+        "lastTimestamp": 30.9546666,
+        "Width": 0,
+        "Height": 0,
+        "LastDecodedPitch": null,
+        "decodedSeconds": 0.0987003
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\finalization-fixes-20261011\\live-main-final2\\recordings\\2026-10-11 02-39-32\\2026-10-11 02-39-32.mp4",
+        "audio": false,
+        "samples": 929,
+        "byteCount": 3424665600,
+        "Duration": 30.9759791,
+        "lastTimestamp": 30.9333333,
+        "Width": 1280,
+        "Height": 720,
+        "LastDecodedPitch": 5120,
+        "decodedSeconds": 5.4733148
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\finalization-fixes-20261011\\live-main-final2\\recordings\\2026-10-11 02-39-32\\2026-10-11 02-39-32.mp4",
+        "audio": true,
+        "samples": 1452,
+        "byteCount": 5947392,
+        "Duration": 30.9759791,
+        "lastTimestamp": 30.9546666,
+        "Width": 0,
+        "Height": 0,
+        "LastDecodedPitch": null,
+        "decodedSeconds": 0.0975831
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\finalization-fixes-20261011\\live-main-final2\\recordings\\2026-10-11 02-38-42\\素材.dogscproject\\media\\camera.mp4",
+        "audio": false,
+        "samples": 920,
+        "byteCount": 3391488000,
+        "Duration": 30.6666333,
+        "lastTimestamp": 30.6333333,
+        "Width": 1280,
+        "Height": 720,
+        "LastDecodedPitch": 5120,
+        "decodedSeconds": 5.3162501
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\finalization-fixes-20261011\\live-main-final2\\recordings\\2026-10-11 02-38-42\\素材.dogscproject\\media\\recording.mp4",
+        "audio": false,
+        "samples": 921,
+        "byteCount": 3395174400,
+        "Duration": 30.7,
+        "lastTimestamp": 30.6666666,
+        "Width": 1280,
+        "Height": 720,
+        "LastDecodedPitch": 5120,
+        "decodedSeconds": 5.7293536
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\finalization-fixes-20261011\\live-main-final2\\recordings\\2026-10-11 02-39-32\\素材.dogscproject\\media\\camera.mp4",
+        "audio": false,
+        "samples": 928,
+        "byteCount": 3420979200,
+        "Duration": 30.9333,
+        "lastTimestamp": 30.9,
+        "Width": 1280,
+        "Height": 720,
+        "LastDecodedPitch": 5120,
+        "decodedSeconds": 5.7994788
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\finalization-fixes-20261011\\live-main-final2\\recordings\\2026-10-11 02-39-32\\素材.dogscproject\\media\\recording.mp4",
+        "audio": false,
+        "samples": 927,
+        "byteCount": 3417292800,
+        "Duration": 30.9096458,
+        "lastTimestamp": 30.8666666,
+        "Width": 1280,
+        "Height": 720,
+        "LastDecodedPitch": 5120,
+        "decodedSeconds": 6.5378684
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\finalization-fixes-20261011\\live-main-final2\\recordings\\2026-10-11 02-39-32\\素材.dogscproject\\media\\system.wav",
+        "audio": true,
+        "samples": 323,
+        "byteCount": 6188716,
+        "Duration": 32.2328958,
+        "lastTimestamp": 32.2,
+        "Width": 0,
+        "Height": 0,
+        "LastDecodedPitch": null,
+        "decodedSeconds": 0.0559335
+      }
+    ],
+    "source": {
+      "DeviceName": "\\\\.\\DISPLAY1",
+      "Left": 0,
+      "Top": 0,
+      "Width": 2560,
+      "Height": 1600
+    },
+    "warnings": "both recording groups empty",
+    "camera": true,
+    "success": true,
+    "pixPinIncluded": false,
+    "streams": 9,
+    "checks": 125,
+    "decodeReport": "live-main-final2/complete-media-decode.json",
+    "fps": 30,
+    "report": "live-main-final2/simple-recording-result.json"
+  },
+  "nativeMedia": {
+    "allAudioTracksFailed": {
+      "success": true,
+      "actualSourceVideo": true,
+      "controlledEmptyTracks": true,
+      "Video": "D:\\github\\dogsc\\Windows\\artifacts\\finalization-fixes-20261011\\media-final\\2026-10-11 02-31-50\\2026-10-11 02-31-50.mp4",
+      "Audio": null,
+      "silentFrames": 108,
+      "LastDecodedPitch": 4288
+    },
+    "staAudioExtraction": {
+      "success": true,
+      "actualSourceVideo": true,
+      "mediaWorkerApartment": "STA",
+      "samples": 1456,
+      "Duration": 31.0613125
+    },
+    "overwrite": {
+      "success": true,
+      "frames": 108,
+      "Width": 1062,
+      "Height": 712,
+      "sourceStride": 4248,
+      "LastDecodedPitch": 4288
+    }
+  },
+  "published": {
+    "success": true,
+    "checkedAt": "2026-10-11T02:42:20.9381635+08:00",
+    "processId": 29908,
+    "executable": "D:\\github\\dogsc\\Windows\\artifacts\\win-x64\\DogSC.Windows.exe",
+    "reusedOwnedProcess": false,
+    "initialWindowsHidden": true,
+    "nativeHotkeyMessageOpensToolbar": true,
+    "startupWindowWaitMilliseconds": 1615,
+    "fullScreenResolutionVisible": true,
+    "regionResolutionHidden": true,
+    "windowResolutionHidden": true,
+    "defaultFullScreenResolution": "原始分辨率",
+    "fullScreenSelectionPreserved": true,
+    "defaultSaveDirectory": "D:\\视频",
+    "toolbarScale": 0.8,
+    "toolbarPhysicalWidth": 1200.0,
+    "toolbarPhysicalHeight": 212.0,
+    "toolbarDpi": 144,
+    "idleToolbarDisplayAffinity": 0,
+    "leftRunningIdle": true,
+    "inputMethod": "UIAutomation SelectionItem; WM_HOTKEY message, not physical keyboard injection",
+    "executableSha256": "807AEDA655295C67355CB380DA2012444A51C2FBD427F7B1911B93370DD1BBAE",
+    "applicationSha256": "0D45F9A8AE999655A920A3B0F3072BCDBD9B3170CDCB8624CAD63AFAC39D1F90",
+    "processStartTime": "2026-10-11T02:42:18.0973538+08:00"
+  },
+  "publishedCamera": {
+    "success": true,
+    "processId": 29908,
+    "processStartTime": "2026-10-11T02:42:18.0973538+08:00",
+    "checkedAt": "2026-10-11T02:42:34.8178328+08:00",
+    "actualCameraPreviewOpened": true,
+    "automationToggleStartedCamera": true,
+    "toolbarVisibilityControlsCamera": true,
+    "recordingStarted": false,
+    "readyMilliseconds": 1124,
+    "cameraDisabledAfterTest": true,
+    "finalToolbarHidden": true
+  },
+  "sourceSha256": {
+    "App.xaml.cs": "A9CD984DF4408BB155400B531E8CF751A494ABFC0454DD9A45C821897C858538",
+    "MainWindow.xaml.cs": "59F965F3391CC34CC761AE5BEB3121F17ADA47DA92149534DC851FD26E904111",
+    "RecordingSession.cs": "A74A3D8E87EB62C3A430AA97A2FA0EE46E25DEB253F7C1AF933CDCB1DF7325E1",
+    "CameraRecordingSession.cs": "FBAD10FE5EC8614D11604A9964386476A457348AC47815BE370B2715E52F2039",
+    "WasapiAudioSession.cs": "A3ADC268BD2EE0D6EA3F543BC99061250515851A7C9A23FAA8B709BD700DDB0E",
+    "RecordingEvents.cs": "9497A06F5736C82033F27320DCCF87ACE69D171CF31E78E39720A66231472EB9",
+    "RecordingFiles.cs": "F76251FDDE49EFEC8442DB90C9D2166A1E6E1EED9BA6CD119C9ABE3C719E5970",
+    "MediaExport.cs": "0256549EFC41B7C18FAC3FF1710FA2A3F951C44ED09AD4485867D32DB7501C6B",
+    "SceneCompositor.cs": "326B6C13CFEB03F7211148E7269F2E2878AA06F08E623D02F812DDE9C55382A9"
+  },
+  "unresolved": [
+    "One intermediate toolbar position reset; final two groups passed unchanged origin assertions; cause not determined and no production positioning fix applied"
+  ],
+  "notVerified": [
+    "Real permanent encoder/driver deadlock",
+    "Physical device hot unplug",
+    "Power failure",
+    "Hours-long recording",
+    "Complete 4K/120fps matrix",
+    "Real negative pitch device",
+    "Multiple displays with negative coordinates"
+  ],
+  "testMediaDeletedAfterValidation": true,
+  "userVideoFolderTouched": false,
+  "cleanup": {
+    "log": "cleanup-result.json",
+    "evidenceFilesVerified": 180,
+    "filesDeleted": 119,
+    "bytesDeleted": 544971318.0
+  }
+}

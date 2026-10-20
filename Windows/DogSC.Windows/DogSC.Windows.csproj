@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows10.0.19041.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <PlatformTarget>x64</PlatformTarget>
+    <Platforms>x64</Platforms>
+    <Platform>x64</Platform>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Assets/DogSC.ico</ApplicationIcon>
+    <AssemblyName>DogSC.Windows</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="Assets/DogSC.ico" />
+    <Content Include="../../LICENSE" Link="LICENSE" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Using Include="System" />
+    <Using Include="System.Collections.Generic" />
+    <Using Include="System.Linq" />
+    <Using Include="System.Threading" />
+    <Using Include="System.Threading.Tasks" />
+    <!-- 7.x periodically calls IMFSinkWriter.Flush on stale input, dropping queued samples on this host.
+         6.6.0 restored measured 30/60 fps in the local comparison; long static recordings still need memory validation.
+         Upstream introduction: https://github.com/sskodje/ScreenRecorderLib/commit/abda2318ac2308b57fb1b6cb4ccc44e45c59c665 -->
+    <PackageReference Include="ScreenRecorderLib" Version="[6.6.0]" />
+    <ProjectReference Include="../DogSC.Core/DogSC.Core.csproj" />
+  </ItemGroup>
+</Project>

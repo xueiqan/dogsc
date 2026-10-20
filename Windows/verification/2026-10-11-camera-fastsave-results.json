@@ -1,0 +1,241 @@
+{
+  "success": true,
+  "checkedAt": "2026-10-11T19:38:04.0402344+08:00",
+  "sourceEvidence": "D:\\github\\dogsc\\Windows\\artifacts\\camera-fastsave-20261011",
+  "dependenciesAdded": false,
+  "screenRecorderLib": "6.6.0",
+  "sdk": "10.0.401",
+  "macSourceChanged": false,
+  "behavior": {
+    "separateCameraEncoder": false,
+    "stopClosesCamera": true,
+    "independentCameraSaved": false,
+    "cameraAutoReopensAfterSave": false,
+    "compositionOnColor": "green",
+    "cameraSurvivesToolbarHideDuringRecording": true,
+    "idleToolbarHideClosesCamera": true,
+    "manualEyeHidesPreviewOnly": true,
+    "defaultRecordingFolder": "D:\\视频",
+    "compositionOffColor": "gray",
+    "cameraEmbeddedInOriginal": true
+  },
+  "tests": {
+    "buildErrors": 0,
+    "coreRerun": false,
+    "realtimeOverlayChecks": 23,
+    "buildWarnings": 0,
+    "toolbarChecks": 19,
+    "rasterRenders": 36,
+    "completeDecodedFiles": 6,
+    "nativeOverlayChecks": 14,
+    "rasterWorkers": 4,
+    "nativeOverlayFrames": 361,
+    "completeDecodedStreams": 7,
+    "liveChecks": 148,
+    "rasterChecks": 21,
+    "windowsRegression": {
+      "finalization": 12,
+      "cameraRelease": 10,
+      "exceptions": 2,
+      "audioFailure": 2,
+      "exportGate": 7,
+      "optionalAudio": 6,
+      "sceneBounds": 4,
+      "events": 14
+    },
+    "windowsRegressionChecks": 57
+  },
+  "saveComparison": {
+    "final": [
+      {
+        "SystemAudio": false,
+        "ActiveSeconds": 15.7568999,
+        "DecodedSeconds": 15.758325,
+        "SaveSeconds": 0.6916902,
+        "Width": 2560,
+        "Height": 1600,
+        "VideoSha256": "17049E2B845EF5DB5E0B179E8C0473A8F2BC6059B5B95EBAAB9D4DBBC76A0F21",
+        "SourceVideoSha256": "17049E2B845EF5DB5E0B179E8C0473A8F2BC6059B5B95EBAAB9D4DBBC76A0F21"
+      },
+      {
+        "SystemAudio": true,
+        "ActiveSeconds": 16.042051,
+        "DecodedSeconds": 16.045875,
+        "SaveSeconds": 0.6159885,
+        "Width": 2560,
+        "Height": 1600,
+        "VideoSha256": "6CCB34919B3C021A8A47937B0627E69A5B6B8BA64DE24B1D7A10F5781AC4DDE1",
+        "SourceVideoSha256": "6CCB34919B3C021A8A47937B0627E69A5B6B8BA64DE24B1D7A10F5781AC4DDE1"
+      }
+    ],
+    "composeFinal": false,
+    "cpuGpuMatrixRerun": false,
+    "frameRate": 120,
+    "rawHashesEqual": true,
+    "microphone": false,
+    "decoded": [
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\camera-fastsave-20261011\\live120-final\\recordings\\2026-10-11 19-08-39\\2026-10-11 19-08-39.mp4",
+        "audio": false,
+        "samples": 1891,
+        "Duration": 15.758325,
+        "Width": 2560,
+        "Height": 1600
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\camera-fastsave-20261011\\live120-final\\recordings\\2026-10-11 19-09-07\\2026-10-11 19-09-07.m4a",
+        "audio": true,
+        "samples": 751,
+        "Duration": 16.045875,
+        "Width": 0,
+        "Height": 0
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\camera-fastsave-20261011\\live120-final\\recordings\\2026-10-11 19-09-07\\2026-10-11 19-09-07.mp4",
+        "audio": false,
+        "samples": 1924,
+        "Duration": 16.045875,
+        "Width": 2560,
+        "Height": 1600
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\camera-fastsave-20261011\\live120-final\\recordings\\2026-10-11 19-09-07\\2026-10-11 19-09-07.mp4",
+        "audio": true,
+        "samples": 751,
+        "Duration": 16.045875,
+        "Width": 0,
+        "Height": 0
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\camera-fastsave-20261011\\live120-final\\recordings\\2026-10-11 19-08-39\\素材.dogscproject\\media\\recording.mp4",
+        "audio": false,
+        "samples": 1891,
+        "Duration": 15.758325,
+        "Width": 2560,
+        "Height": 1600
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\camera-fastsave-20261011\\live120-final\\recordings\\2026-10-11 19-09-07\\素材.dogscproject\\media\\recording.mp4",
+        "audio": false,
+        "samples": 1924,
+        "Duration": 16.045875,
+        "Width": 2560,
+        "Height": 1600
+      },
+      {
+        "path": "D:\\github\\dogsc\\Windows\\artifacts\\camera-fastsave-20261011\\live120-final\\recordings\\2026-10-11 19-09-07\\素材.dogscproject\\media\\system.wav",
+        "audio": true,
+        "samples": 167,
+        "Duration": 16.6257916,
+        "Width": 0,
+        "Height": 0
+      }
+    ],
+    "camera": true,
+    "baselineChecks": 125,
+    "baseline": [
+      {
+        "SystemAudio": false,
+        "ActiveSeconds": 15.6618931,
+        "DecodedSeconds": 15.658325,
+        "SaveSeconds": 70.5017131,
+        "Width": 2560,
+        "Height": 1600
+      },
+      {
+        "SystemAudio": true,
+        "ActiveSeconds": 15.9455726,
+        "DecodedSeconds": 15.9573125,
+        "SaveSeconds": 69.5276184,
+        "Width": 2560,
+        "Height": 1600
+      }
+    ],
+    "source": {
+      "DeviceName": "\\\\.\\DISPLAY1",
+      "Left": 0,
+      "Top": 0,
+      "Width": 2560,
+      "Height": 1600
+    }
+  },
+  "legacyCameraRender": {
+    "frames": 1879,
+    "renderTimingClaim": false,
+    "expectedFrames": 1879,
+    "success": true,
+    "comparedTo": "previous saved final video",
+    "sourceFrameCountClaim": false
+  },
+  "publication": {
+    "at": "2026-10-11T19:14:34.2211437+08:00",
+    "backup": "D:\\github\\dogsc\\Windows\\artifacts\\camera-fastsave-20261011\\before-publish",
+    "applicationSha256": "758D75F431A8B7B8FF017C5F2046C3FA20E32D887C29AA683CBF9B4A88D479BD",
+    "executable": "D:\\github\\dogsc\\Windows\\artifacts\\win-x64\\DogSC.Windows.exe",
+    "changed": [
+      {
+        "file": "DogSC.Windows.dll",
+        "after": "758D75F431A8B7B8FF017C5F2046C3FA20E32D887C29AA683CBF9B4A88D479BD",
+        "before": "51F776A7CC7287E3695BF328A99A361E11A6A92E6144DE73671DC20476D37E9E"
+      },
+      {
+        "file": "DogSC.Windows.pdb",
+        "after": "AD88F77BDFDD8924536E5BCBB0372CE3BADF85840E34E158D1B22EA13909D11C",
+        "before": "9A4DAED9D99EA31BC8D0BCCDE9E36A2EF2FD3AE8B1AFBA5F56DBBCFEFFCDA1ED"
+      }
+    ],
+    "success": true
+  },
+  "startup": {
+    "processId": 29996,
+    "physicalHotkeySent": false,
+    "success": true,
+    "oldRunFailureCauseProven": false,
+    "startedAt": "2026-10-11T11:19:27.4048581Z",
+    "shortcut": {
+      "path": "C:\\Users\\王家烨\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\DogSC.lnk",
+      "targetPath": "D:\\github\\dogsc\\Windows\\artifacts\\win-x64\\DogSC.Windows.exe",
+      "arguments": "--background",
+      "workingDirectory": "D:\\github\\dogsc\\Windows\\artifacts\\win-x64",
+      "iconLocation": "D:\\github\\dogsc\\Windows\\artifacts\\win-x64\\DogSC.Windows.exe,0",
+      "windowStyle": 7
+    },
+    "desktop": {
+      "path": "C:\\Users\\王家烨\\Desktop\\DogSC.lnk",
+      "targetPath": "D:\\github\\dogsc\\Windows\\artifacts\\win-x64\\DogSC.Windows.exe",
+      "arguments": "",
+      "workingDirectory": "D:\\github\\dogsc\\Windows\\artifacts\\win-x64",
+      "iconLocation": "D:\\github\\dogsc\\Windows\\artifacts\\win-x64\\DogSC.Windows.exe,0",
+      "windowStyle": 1
+    },
+    "allFinalWindowsHidden": true,
+    "completedAt": "2026-10-11T19:21:20.5895+08:00",
+    "actualLoginTested": false,
+    "checks": [
+      "Startup shortcut launches the published app with all windows hidden",
+      "Registered show/hide message opens the toolbar from background",
+      "The same message hides the idle toolbar again",
+      "Final published instance remains alive, idle and hidden"
+    ]
+  },
+  "cleanup": {
+    "success": true,
+    "completedAt": "2026-10-11T19:38:04.0314975+08:00",
+    "scope": "D:\\github\\dogsc\\Windows\\artifacts\\camera-fastsave-20261011",
+    "deletedFiles": 21,
+    "deletedBytes": 174198265.0,
+    "protectedFiles": 586,
+    "protectedHashesUnchanged": true,
+    "remainingMediaFiles": 0,
+    "userRecordingFolderTouched": false
+  },
+  "notChecked": [
+    "actual login startup",
+    "hours-long recording",
+    "4K120fps",
+    "real device removal or permanent driver hang",
+    "real lip sync",
+    "complete CPU GPU matrix",
+    "current-stage complete PixPin flow"
+  ]
+}
